@@ -21,17 +21,17 @@ export default function Resume() {
                     <strong>Skills: </strong> APIs, Object-Oriented Programming, Object-Relational Mapping, Model-View-Controller, Progressive Web Applications, State, Computer Science, Documentation, Code Optimization, Mobile-First Design</p>{"\n"}
 
                 <h2>Projects</h2>
-                <p><strong>Pantry Rescue | <a href='https://github.com/olivercappis/pantry-rescue'>Link to Github</a> | <a href='https://olivercappis.github.io/pantry-rescue/'>Deployed Link</a>
+                <p><strong>Pantry Rescue | <a href='https://github.com/olivercappis/pantry-rescue'>Link to Github</a> | <a href='https://olivercappis.github.io/pantry-rescue/'>Deployed Link</a>{"\n"}
                     Users input ingredients to make a call to a library of recipes.{"\n"}
                     Front-end developer{"\n"}
                     HTML, JavaScript{"\n"}
 
-                    Love Connect | <a href='https://github.com/olivercappis/project-2'>Link to Github</a> | <a href='https://loveconnect.onrender.com'>Deployed Link</a>
+                    Love Connect | <a href='https://github.com/olivercappis/project-2'>Link to Github</a> | <a href='https://loveconnect.onrender.com'>Deployed Link</a>{"\n"}
                     Front and back-end dating site application that stores data in multiple connecting databases.{"\n"}
                     Front-end developer{"\n"}
                     HTML, JavaScript, Handlebars{"\n"}
 
-                    Exit-Survey App | <a href='https://github.com/wzieb/Exit-Survey'>Link to Github</a> | <a href='https://loveconnect.onrender.com'>Deployed Link</a>
+                    Exit-Survey App | <a href='https://github.com/wzieb/Exit-Survey'>Link to Github</a> | <a href='https://loveconnect.onrender.com'>Deployed Link</a>{"\n"}
                     Front and back-end application for managing end-of-course surveys.{"\n"}
                     Front end developer{"\n"}
                     JavaScript, React{"\n"}
