@@ -1,8 +1,8 @@
 export default function Contact() {
     return (
 
-<div className="body">
-<section id="contact-info">
+<div className="contact-div">
+<section className="w3-container contact-info">
     <h2 class="header-contact">Contact Info</h2>
     <ul>
       
