@@ -16,12 +16,11 @@ export default function ProjectPage() {
 
 
   return (
-    <>
+    
       <Container key={Container.id}>
       {data.map(item => (
         <CardBody key={CardBody.id} name={item.name} image={item.image} link={item.link} github={item.github}/>
       ))}
       </Container>
-    </>
   );
 }
