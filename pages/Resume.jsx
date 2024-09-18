@@ -62,7 +62,7 @@ export default function Resume() {
                     <strong>Regard Jewelry</strong>{"\n"}
                     Austin, TX{"\n"}
                     Communicated and collaborated with the owner of the company and other team members.{"\n"}
-                    Researched the jewelry industry and its history to write web content.
+                    Researched the jewelry industry and its history to write web content.{"\n"}
                     {"\n"}
                     <strong>Copywriter and Editor</strong>{"\n"}
                     2016 – 2016{"\n"}

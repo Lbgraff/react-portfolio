@@ -3,9 +3,7 @@ export default function Footer() {
         <footer className="footer">
             <div>
                 <p>
-                    Made with <span>
-                        {String.fromCodePoint('0x1F5A4')}
-                    </span> by Lbgraff
+                    Full Stack Software Developer
                 </p>
             </div>
         </footer>

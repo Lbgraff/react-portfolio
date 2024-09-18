@@ -1,12 +1,8 @@
-// Bringing in the required component from 'react-router-dom' for linking between pages and getting the current param variable's value from URL
 import { Link } from 'react-router-dom';
 import Container from '../src/components/UI/ListItem';
 import CardBody from '../src/components/UI/Card/CardBody';
 
 export default function ProjectPage() {
-
- 
-
  
   const data = [
 
@@ -21,12 +17,9 @@ export default function ProjectPage() {
 
   return (
     <>
-      <Container>
+      <Container key={Container.id}>
       {data.map(item => (
-        // <li className="list-group-item" key={item.id}>
-        //   {item.name}
-        // </li>
-        <CardBody name={item.name} image={item.image} link={item.link} github={item.github}/>
+        <CardBody key={CardBody.id} name={item.name} image={item.image} link={item.link} github={item.github}/>
       ))}
       </Container>
     </>

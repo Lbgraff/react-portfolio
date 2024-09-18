@@ -69,9 +69,9 @@ button:focus-visible {
   padding:0px;
 }
 body{
-  color:rgb(0, 0, 0);
+  color: #283618;
   font-family: Arial, Helvetica, sans-serif;
-  background-color: rgb(164, 161, 161);
+  background-color: #fefae0;
   font-size: larger;
 }
 
@@ -81,6 +81,14 @@ h2 {
 
 .cardImage {
   height: 500px;
-  width: 800px;
-  border: 5px black solid;
+  width: 850px;
+  border: 5px #606c38 solid;
+}
+
+a:link {
+color: #283618;
+}
+
+a:visited {
+  color: #283618;
 }
