@@ -3,7 +3,7 @@ export default function Resume() {
         <div className="resume-body-text">
             <div style={{ whiteSpace: 'pre-line' }}>
                 <h1>Leigh B. Graff</h1>
-                <p>
+                <p className="resume-contact">
                     Austin, TX{"\n"}
                     Phone: 512-937-7168 | Email: Lbgraff92@gmail.com{"\n"}
                     LinkedIn: https://www.linkedin.com/in/leigh-graff-87135a47/
