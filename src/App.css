@@ -3,42 +3,40 @@
   display: flex;
   justify-content: space-evenly;
   font-family: 'copperplate', fantasy;
-}
-
-.main-container {
-  width: 100vw;
-  height: 90vh;
+  width: 100%;
+ 
 }
 
 nav ul {
   display: flex;
   flex-wrap: wrap;
   justify-content: space-evenly;
-  width: 100%;
   list-style: none;
+  text-align: left;
+  padding-right: 5%;
 }
 
 header h1 {
-  width: 30%;
+  padding-left: 5%;
+  padding-right: 5%;
+  width: 20%;
   color: #fefae0;
+  font-size: xx-large;
   display: block;
-  margin-top: 3%;
-  padding: 10px;
 }
 
 header h2 {
   width: 30%;
   color: #bc6c25;
+  font-size: x-large;
 }
 
 header nav {
   width: 70%;
-  padding: 30px;
 }
 
 nav ul li {
-  padding: 1%;
-  font-size: 30px;
+  font-size: x-large;
 }
 
 nav ul li a:link {
@@ -58,43 +56,37 @@ nav ul li a:visited {
 }
 
 #professional-info {
-  padding: 25px;
-  padding-left: 50px;
-  padding-right: 50px;
+  padding: 5%;
   border: 5px #606c38 solid;
   color: #283618;
   margin: auto;
-  margin-top: 25px;
-  margin-bottom: 25px;
+  margin-top: 5%;
   width: 75%;
 }
 
 #personal-info {
-  padding: 25px;
-  padding-left: 50px;
-  padding-right: 50px;
+  padding: 5%;
   border: 5px #606c38 solid;
   color: #283618;
   margin: auto;
-  margin-top: 25px;
-  margin-bottom: 25px;
+  margin-top: 5%;
+  margin-bottom: 5%;
   width: 75%;
 }
 
 #contact-info ul li {
   list-style: none;
-  padding: 5px;
+  padding: 5%;
 }
 
 .contact-info {
   text-align: center;
   border: 5px #606c38 solid;
-  padding: 25px;
-  margin: 25px;
-  width: fit-content;
+  padding: 5%;
+  width: 75%;
   margin: auto;
-  margin-top: 15px;
-  margin-bottom: 15px;
+  margin-top: 5%;
+  margin-bottom: 5%;
 }
 
 .contact-info p {
@@ -103,53 +95,46 @@ nav ul li a:visited {
   align-items: center;
 }
 
-.body-text {
-  padding: 10px;
-}
-
 .card-body {
   border: 5px #606c38 solid;
-  padding: 25px;
-  width: fit-content;
+  padding: 5%;
+  width: 75%;
   margin: auto;
-  margin-top: 25px;
-  margin-bottom: 25px;
+  margin-top: 5%;
+  margin-bottom: 5%;
+
 }
 
 .cardLink {
   display: block;
   text-align: center;
-  padding: 3px;
 }
 
 .cardGithub {
   display: block;
   text-align: center;
-  padding: 3px;
 }
 
 .cardName {
   display: block;
   text-align: center;
   color: #283618;
-  font-size: 20pt;
-  padding: 3px;
+  font-size: large;
 }
 
 .resume-body-text {
   border: 5px #606c38 solid;
-  margin: 25px;
-  padding: 25px;
+  width: 75%;
+  padding: 5%;
+  margin: 5%;
 }
 
 .resume-body-text h1 {
   text-align: center;
-  padding: 5px;
 }
 
 .resume-body-text h2 {
   text-align: center;
-  padding: 5px;
 }
 
 .resume-contact {

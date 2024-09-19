@@ -25,17 +25,17 @@ export default function Resume() {
                     Users input ingredients to make a call to a library of recipes.{"\n"}
                     Front-end developer{"\n"}
                     HTML, JavaScript{"\n"}
-
+                    {"\n"}
                     Love Connect | <a href='https://github.com/olivercappis/project-2'>Link to Github</a> | <a href='https://loveconnect.onrender.com'>Deployed Link</a>{"\n"}
                     Front and back-end dating site application that stores data in multiple connecting databases.{"\n"}
                     Front-end developer{"\n"}
                     HTML, JavaScript, Handlebars{"\n"}
-
+                    {"\n"}
                     Exit-Survey App | <a href='https://github.com/wzieb/Exit-Survey'>Link to Github</a> | <a href='https://loveconnect.onrender.com'>Deployed Link</a>{"\n"}
                     Front and back-end application for managing end-of-course surveys.{"\n"}
                     Front end developer{"\n"}
                     JavaScript, React{"\n"}
-
+                    {"\n"}
                 </strong></p>{"\n"}
                 {"\n"}
                 <h2>Relevant Experience</h2>
