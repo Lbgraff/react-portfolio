@@ -1,4 +1,4 @@
-body{
+body {
   color: #283618;
   font-family: Arial, Helvetica, sans-serif;
   background-color: #fefae0;
@@ -9,6 +9,11 @@ body{
   height: 40%;
   width: 65%;
   border: 5px #606c38 solid;
+  text-align: center;
+  display: block;
+  justify-content: center;
+  align-items: center;
+  margin: auto;
 }
 
 img {
@@ -16,7 +21,7 @@ img {
 }
 
 a:link {
-color: #283618;
+  color: #283618;
 }
 
 a:visited {
