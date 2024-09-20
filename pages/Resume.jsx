@@ -6,9 +6,9 @@ export default function Resume() {
                 <p className="resume-contact">
                     Austin, TX{"\n"}
                     Phone: 512-937-7168 | Email: Lbgraff92@gmail.com{"\n"}
-                    LinkedIn: https://www.linkedin.com/in/leigh-graff-87135a47/
-                    GitHub: https://github.com/Lbgraff
-                    Portfolio: https://lbgraff.github.io/Portfolio/
+                    <strong>LinkedIn:</strong> https://www.linkedin.com/in/leigh-graff-87135a47/{"\n"}
+                    <strong>GitHub:</strong> https://github.com/Lbgraff{"\n"}
+                    <strong>Portfolio:</strong> https://lbgraff.github.io/Portfolio/
                 </p>{"\n"}
 
                 <h2>Summary</h2>

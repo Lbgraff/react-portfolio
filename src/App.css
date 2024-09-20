@@ -98,16 +98,19 @@ nav ul li a:visited {
 .card-body {
   border: 5px #606c38 solid;
   padding: 5%;
-  width: 75%;
+  width: 80%;
   margin: auto;
   margin-top: 5%;
   margin-bottom: 5%;
-
+  margin-right: 5%;
+  margin-left: 5%;
 }
 
 .cardLink {
   display: block;
   text-align: center;
+  padding-top: 2%;
+  padding-bottom: 2%;
 }
 
 .cardGithub {
@@ -119,14 +122,20 @@ nav ul li a:visited {
   display: block;
   text-align: center;
   color: #283618;
-  font-size: large;
+  font-size: xx-large;
 }
 
 .resume-body-text {
   border: 5px #606c38 solid;
-  width: 75%;
+  display: block;
+  justify-content: center;
+  align-items: center;
+  width: 80%;
   padding: 5%;
-  margin: 5%;
+  margin-top: 5%;
+  margin-bottom: 5%;
+  margin-right: 5%;
+  margin-left: 5%;
 }
 
 .resume-body-text h1 {
