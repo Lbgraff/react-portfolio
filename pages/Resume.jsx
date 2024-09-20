@@ -17,8 +17,8 @@ export default function Resume() {
                 {"\n"}
                 <h2>Technical Skills</h2>
                 <p><strong>Technical Languages: </strong>
-                    HTML5, Git, CSS3, JavaScript ES6+, jQuery, Node, Express, SQL, NoSQL, Handlebars, React, GraphQL, MongoDB, MERN{"\n"}
-                    <strong>Skills: </strong> APIs, Object-Oriented Programming, Object-Relational Mapping, Model-View-Controller, Progressive Web Applications, State, Computer Science, Documentation, Code Optimization, Mobile-First Design</p>{"\n"}
+                    HTML5, Git, CSS3, JavaScript ES6+, jQuery, Node, Express, SQL, NoSQL, Handlebars, React, GraphQL, MongoDB, MERN, Java, Python, C#{"\n"}
+                    <strong>Skills: </strong> APIs, Object-Oriented Programming, Object-Relational Mapping, Model-View-Controller, Progressive Web Applications, State, Computer Science, Documentation, Code Optimization, Mobile-First Design, Amazon Web Services</p>{"\n"}
 
                 <h2>Projects</h2>
                 <p><strong>Pantry Rescue | <a href='https://github.com/olivercappis/pantry-rescue'>Link to Github</a> | <a href='https://olivercappis.github.io/pantry-rescue/'>Deployed Link</a>{"\n"}
